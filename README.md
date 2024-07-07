@@ -7,6 +7,7 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dat
  
  
  ![image](https://github.com/Amitkarni02/plant_disease_prediction/assets/149171781/adc63756-e7e4-42f6-9758-fc71c7222160)
+ 
 
  
  
@@ -22,5 +23,8 @@ Very briefly, each class means the following:
 • Powdery: Powdery mildews are caused by Erysphales fungi, posing a threat to agriculture and horticulture by reducing crop yields.
 
 • Healthy: Naturally, these are the plants that are free from diseases.
+
+![image](https://github.com/Amitkarni02/plant_disease_prediction/assets/149171781/31f4c479-74e5-4729-aa0f-e891b38120a7)
+
 
 
